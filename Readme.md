@@ -60,7 +60,6 @@ With additional time, the following enhancements could be explored:
 - Supporting alternative game variants without changing core logic
 
 ---
-
 ## How to Run
 ### Prerequisites
 - Python 3.8 or higher
